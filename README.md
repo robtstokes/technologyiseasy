@@ -1,3 +1,5 @@
-# technologyiseasy
+---
+title: "Technology is Easy"
+---
 
-##test## project pages
+This is a **markdown** *test*
