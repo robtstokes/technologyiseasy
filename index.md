@@ -7,4 +7,4 @@ This is a **markdown** *test*
 
 **ELLISHA**
 
-[a relative link](/2021/05/29/welcome.html)
+[a relative link](/technologyiseasy/2021/05/29/welcome.html)
